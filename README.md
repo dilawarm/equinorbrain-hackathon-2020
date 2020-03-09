@@ -1,2 +1,2 @@
 # equinorbrainn-hackathon-2020
-Equinor | Brain NTNU - AI Hackathon
+https://brainntnu.no/portfolio/brain-hackathon-energy-forecasting/
